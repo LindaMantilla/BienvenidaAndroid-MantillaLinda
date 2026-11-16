@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Willkommen</string>
+    <string name="bienvenida">Willkommen</string>
+    <string name="entrar">Eintreten</string>
+    <string name="idioma">Sprache</string>
+    <string name="elegir_idioma">Sprache auswählen</string>
+    <string name="mensaje_bienvenida">Hallo! Schön, dass du da bist.</string>
+</resources>

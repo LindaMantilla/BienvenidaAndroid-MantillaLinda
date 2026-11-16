@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Medidas para teléfonos. Las de tabletas están en values-sw600dp/dimens.xml. -->
+<resources>
+    <dimen name="texto_titulo">28sp</dimen>
+    <dimen name="texto_boton">16sp</dimen>
+    <dimen name="margen_borde">16dp</dimen>
+    <dimen name="separacion_boton">12dp</dimen>
+    <dimen name="ancho_minimo_boton">140dp</dimen>
+</resources>

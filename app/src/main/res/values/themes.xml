@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Bienvenida" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/azul_cielo</item>
+        <item name="android:statusBarColor">@color/azul_cielo</item>
+    </style>
+</resources>

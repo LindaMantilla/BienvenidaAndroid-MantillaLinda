@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Medidas para pantallas de 600dp de ancho mínimo o más (tabletas). -->
+<resources>
+    <dimen name="texto_titulo">44sp</dimen>
+    <dimen name="texto_boton">22sp</dimen>
+    <dimen name="margen_borde">32dp</dimen>
+    <dimen name="separacion_boton">20dp</dimen>
+    <dimen name="ancho_minimo_boton">220dp</dimen>
+</resources>

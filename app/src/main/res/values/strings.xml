@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Español: idioma predeterminado (se usa cuando el teléfono está en un idioma no soportado). -->
+<resources>
+    <string name="app_name">Bienvenida Android</string>
+    <string name="bienvenida">Bienvenido</string>
+    <string name="entrar">Entrar</string>
+    <string name="idioma">Idioma</string>
+    <string name="elegir_idioma">Elige un idioma</string>
+    <string name="mensaje_bienvenida">¡Hola! Qué bueno tenerte aquí.</string>
+
+    <!-- Cada idioma se escribe en su propio idioma, por eso no se traduce. -->
+    <string-array name="nombres_idiomas" translatable="false">
+        <item>Español</item>
+        <item>English</item>
+        <item>Français</item>
+        <item>Deutsch</item>
+    </string-array>
+</resources>
